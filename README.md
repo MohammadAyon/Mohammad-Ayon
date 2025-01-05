@@ -1,6 +1,6 @@
 # Abu Tayeb Mohammad Ayon | Computer Science Student, Researcher & Developer 👨‍💻
 
-Hi 👋! My name is **Abu Tayeb Mohammad Ayon**, and I'm a **Computer Science & Engineering student** at **North South University** with a strong passion for **technology**, **research**, and **development**. My goal is to create innovative solutions through technology and research. I am currently working as a **Research Assistant** at the **NSU DIAL Lab**, where I combine academic research with practical implementation.
+Hi 👋! My name is **Abu Tayeb Mohammad Ayon**, and I'm a **Computer Science & Engineering student** at **North South University** with a strong passion for **technology**, **research**, and **development**. My goal is to create innovative solutions through technology and research. I worked as a **Research Assistant** at the **NSU DIAL Lab**, combining academic study with practical implementation.
 
 ---
 

@@ -1,72 +1,58 @@
-# Mohammad Ayon | Full Stack Developer & UI/UX Enthusiast 👨‍💻
+# Abu Tayeb Mohammad Ayon | Computer Science Student, Researcher & Developer 👨‍💻
 
-Hi 👋! My name is **Mohammad Ayon**, and I'm a **Beginner Developer** **Web Developer and **ML Researcher** from **Bangladesh**. I specialize in building dynamic web and mobile applications with a focus on **Kotlin**, **JavaScript**, **PHP**, and **UI/UX design**. I'm passionate about creating software solutions that have a real-world impact.
+Hi 👋! My name is **Abu Tayeb Mohammad Ayon**, and I'm a **Computer Science & Engineering student** at **North South University** with a strong passion for **technology**, **research**, and **development**. My goal is to create innovative solutions through technology and research. I am currently working as a **Research Assistant** at the **NSU DIAL Lab**, where I combine academic research with practical implementation.
+
+---
 
 ## 📚 About Me
 
-- 🎓 **Currently**: Graduat at Computer Science at **[North South University]** 
-- 🔭 I’m working on several **personal projects**, open-source contributions, and learning new skills.
-- 🌱 **Learning**: Exploring modern web development frameworks like **React**, **Next.js**, and **Android Jetpack Compose**.
-- 💬 **Ask me about**: Mobile development, **UI/UX design**, **JavaScript**, **Kotlin**, **PHP**, and **Firebase**.
-- 📫 You can reach me via **[mohammad.ayon2838@gmail.com]** (Replace with your email).
+- 🎓 **Education**: B.Sc. in **Computer Science & Engineering** from **North South University** (2020 - 2024).
+- 🔭 **Research**: Research Assistant at **NSU DIAL Lab**, with experience in **qualitative research** and **data analysis**.
+- 🌱 **Learning**: Exploring **machine learning**, **mobile development**, and **IoT** to create impactful solutions.
+- 💬 **Ask me about**: **Machine Learning**, **Mobile Development**, **IoT**, **Kotlin**, **Java**, **Python**, and **Firebase**.
+- 📫 **Email**: [mohammadayon2838@gmail.com](mailto:mohammadayon2838@gmail.com).
+- 📞 **Phone**: +880 1620-570-5653.
 
 ---
 
 ## 🚀 Projects
 
-### [Bonoful Cinema Hall](https://github.com/MohammadAyon/Bonoful-cinema-hall.git)
-A **Bangla Cinema Ticket Booking Management System** that lets users reserve tickets for movies in real-time.
-
-#### Key Features:
-- **Ticket Booking**: Allows users to book movie tickets.
-- **Real-Time Availability**: Movie showtimes and availability are displayed in real-time.
-- **Responsive UI**: Mobile-friendly and optimized for different screen sizes.
-
-![Bonoful Cinema Hall](https://github.com/user-attachments/assets/0024cd66-0e4c-4f1f-802e-5c9aedc5ab9b)
+### [Skin Cancer Classification](#)
+- **Overview**: Developed a lightweight pruned DCNN with XAI, achieving 98.07% accuracy on the **HAM10000 dataset**. Enhanced speed, efficiency, and interpretability compared to state-of-the-art models.
 
 ### [Adda Dei](https://github.com/MohammadAyon/Adda.git)
-An **Android-based social networking app** for NSU students that enables real-time chatting, user authentication via Google, and active user status tracking.
+- **Overview**: An **Android-based social networking application** for **NSU students**, featuring **real-time chat** functionality, **Google authentication**, and **active user status tracking**.
+- **Technologies**: Kotlin, Firebase, Figma.
 
-#### Key Features:
-- **Real-Time Chat**: Individual and group messaging features.
-- **User Authentication**: Google authentication integration.
-- **Active Status**: Tracks whether users are online or offline.
+### [Smart Waste Management](#)
+- **Overview**: Engineered an **IoT-based smart waste management system** with **STM32** and environmental sensors, providing **real-time waste level monitoring** and **OLED display integration**.
 
-![Adda Dei](https://github.com/user-attachments/assets/19d3d31a-a4f4-44d5-9c1c-3d9d72e7c61b)
+### [Bonoful Cinema Hall](https://github.com/MohammadAyon/Bonoful-cinema-hall.git)
+- **Overview**: A **real-time Bangla Cinema Ticket Booking Management System** that reserves tickets for movies.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Kotlin, JavaScript, PHP, SQL
-- **Frameworks**: React, Node.js, Laravel
-- **Databases**: MySQL, Firebase
-- **Design Tools**: Figma, Adobe XD
-- **Tools**: Git, GitHub, Docker
+### **Programming Languages**:
+- C++, C, Java, Python, JavaScript, ARMv7 Assembly, Kotlin
 
----
+### **Web Technologies**:
+- HTML, CSS, Bootstrap, PHP, Firebase
 
-## 🎯 My Goals
+### **Databases**:
+- MySQL, Oracle, Microsoft SQL Server
 
-- **Open Source Contributions**: I aim to contribute to more open-source projects that have a real-world impact.
-- **Build Innovative Apps**: Developing apps that improve users' lives.
-- **Expand My Knowledge**: Continuously learning new technologies and staying updated with the latest trends in tech.
+### **Frameworks & Libraries**:
+- JavaFX, NumPy, PyTorch, Flask
 
 ---
 
 ## 🌱 Currently Learning
 
-- Exploring **Machine Learning** and **Artificial Intelligence**.
-- Deepening my knowledge of **UI/UX design principles**.
-
-
----
-
-## 📬 Connect with Me
-
-- **[LinkedIn](www.linkedin.com/in/abu-tayeb-844644213)** 
-- **[Twitter](https://twitter.com/mohammadayon)** .
-- **Website**: [Mohammad Ayon Portfolio](https://mohammadayon.github.io/Abu-Tayeb/) 
+- Deepening my knowledge of **Machine Learning** and **Artificial Intelligence**.
+- Expanding my skills in **Mobile Development** using **Kotlin** and **Flutter**.
+- Working on **IoT** projects, focusing on **embedded systems** and **STM32**.
 
 ---
 
@@ -101,17 +87,16 @@ An **Android-based social networking app** for NSU students that enables real-ti
 
 ## 📱 Social Media & Contact
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</div>
+- [LinkedIn](https://www.linkedin.com/in/abu-tayeb-844644213/)
+- [YouTube](https://www.youtube.com/channel/UCHDu2BrcCuuKGLL4ZyuOJ0w)
+- [Instagram](https://www.instagram.com/md.ayon28/)
+- [Facebook](https://www.facebook.com/md.ayon28)
 
 ---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🐍 GitHub Snake Animation
+
+<img src="https://raw.githubusercontent.com/MohammadAyon/MohammadAyon/output/snake.svg" alt="Snake animation" />
+

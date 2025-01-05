@@ -114,6 +114,4 @@ An **Android-based social networking app** for NSU students that enables real-ti
 
 <br clear="both">
 
-## 🐍 GitHub Snake Animation
-
-<img src="https://raw.githubusercontent.com/MohammadAyon/MohammadAyon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
